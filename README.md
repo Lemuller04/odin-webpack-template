@@ -1,4 +1,4 @@
-# 🚀 npm-template-odin
+# 🚀 odin-webpack-template
 
 A modern and reusable project template for [The Odin Project](https://www.theodinproject.com/) assignments and personal JavaScript experiments. This template includes Webpack bundling, ESLint linting, Prettier formatting, and Jest testing—all configured and ready to roll.
 
