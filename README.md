@@ -20,7 +20,7 @@ A modern and reusable project template for [The Odin Project](https://www.theodi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Lemuller04/npm-template-odin.git
+git clone https://github.com/Lemuller04/odin-webpack-template.git
 cd npm-template-odin
 ```
 
